@@ -33,7 +33,7 @@ body {
     size: 50%;
 }
 
-.h1 {
+#h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
@@ -51,6 +51,64 @@ body {
     padding: 20px;
     position: relative;
     font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.contact {
+    padding: 20px;
+    left: 20px;
+}
+
+.formname {
+    padding: 20px;
+    left: 20px;
+}
+
+.formjs {
+    left: 20px;
+    width: 920px;
+    height: 30px;
+    border-color: #666666;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.formemail {
+    left: 20px;
+    padding: 20px;
+}
+
+.formemailenter {
+    left: 20px;
+    width: 920px;
+    height: 30px;
+    border-color: #666666;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.formmessage {
+    left: 20px;
+    padding: 20px;
+}
+
+.formmessageenter {
+    left: 20px;
+    width: 920px;
+    height: 30px;
+    border-color: #666666;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.formsubmit {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 10px;
+    width: 50px;
+    left: 20px;
+    padding: 10px;
+    top: 25px;
+    position: relative;
 }
 
 .name {
